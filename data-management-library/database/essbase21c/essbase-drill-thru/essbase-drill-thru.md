@@ -40,11 +40,11 @@ We are creating a variation of the Sample/Basic cube where Market dim has Region
 
    Change application name Sample to **SampleDT**.
    
-   ![](./images/imageDT_01.png " ")
+   ![Import File](./images/imageDT_01.png " ")
 
 4. Go to home. Expand application SampleDT<StudentID>, cube Basic, select Actions and click **Outline**. Click on the Market dimension and check that regions are at leaf level.
    
-   ![](./images/imageDT_02.png " ")
+   ![Outline](./images/imageDT_02.png " ")
 
 
 5.  Close the outline browser tab.
